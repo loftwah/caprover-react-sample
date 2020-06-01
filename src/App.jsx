@@ -14,7 +14,7 @@ function App() {
   );
   return (
     <div>
-      <h1>Sample React App</h1>
+      <h1>Sample React App on CapRover</h1>
       <div>
 Server responded with this data:
         {

@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+console.log(process.env.REACT_APP_API_BASE_URL);
 
 function App() {
   const [obj, setObj] = useState(null);
